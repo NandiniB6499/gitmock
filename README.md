@@ -1,2 +1,2 @@
 # gitmock
-Mock call for interview
+Mock call
